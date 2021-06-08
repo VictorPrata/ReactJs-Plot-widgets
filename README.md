@@ -54,8 +54,9 @@ Não será passado prazo para entrega, verifique os pré-requisitos e nos dê se
 **Entre em contato com André Oliveira (andre.oliveira@delfosim.com)**
 
 ## Como rodar o servidor do projeto
+Projeto desenvolvido utilizando principalmente os framework Material-UI e Redux.
 
-O primeiro passo para isso é instalar as dependências 
+O primeiro passo para colocar o projeto para rodar é instalar as dependências 
 
 ``` 
 cd frontend-test-01
@@ -117,3 +118,12 @@ npm run build
 - É possível alternar o tipo de gráfico entre seis possibilidades.
 
 ![Edit_Wiget](images/change_chart.gif?raw=true "Alterar tipo de gráfico")
+
+## Responsividade
+
+Screenshots da aplicação acessada por smartphone.
+
+![Screenshot](images/empty.jpeg)
+![Screenshot](images/table.jpeg)
+![Screenshot](images/chart.jpeg)
+![Screenshot](images/mobile.jpeg)
