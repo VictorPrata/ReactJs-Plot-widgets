@@ -52,3 +52,24 @@ Não será passado prazo para entrega, verifique os pré-requisitos e nos dê se
 - Tenho mais dúvidas, com quem posso entrar em contato?
 
 **Entre em contato com André Oliveira (andre.oliveira@delfosim.com)**
+
+## Como rodar o servidor do projeto
+
+O primeiro passo para isso é instalar as dependências 
+
+``` 
+cd frontend-test-01
+npm install
+```
+
+feito isso, basta subir a aplicação em _development mode_
+
+``` 
+npm start
+```
+
+ou compile o aplicativo para produção na pasta de compilação utilizando
+
+``` 
+npm run build
+```
