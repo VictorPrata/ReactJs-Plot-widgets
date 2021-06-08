@@ -7,8 +7,8 @@ Não será passado prazo para entrega, verifique os pré-requisitos e nos dê se
 ![Desafio](images/tela-01.png?raw=true "Desafio")
 
 ## Ações
-- O usuário deve ser capaz de incluir um novo widget(Gráfico), editar e remover
-- No momento da inclusão desse widget o usuário deve fornecer os valores falsos e na edição o mesmo deve alterar os valores cadastrados
+- O usuário deve ser capaz de incluir um novo widgets(Gráfico), editar e remover
+- No momento da inclusão desse widgets o usuário deve fornecer os valores falsos e na edição o mesmo deve alterar os valores cadastrados
 - Todos esses widgets devem ser listados no Dashboard
 
 
