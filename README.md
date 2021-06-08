@@ -73,3 +73,47 @@ ou compile o aplicativo para produção na pasta de compilação utilizando
 ``` 
 npm run build
 ```
+
+## Funcionalidades
+
+**Novo Widget**
+
+- Para criar um widget inserindo dados manualmente basta preencher a tabela com as representações.
+
+![Novo Wiget](images/creating_widget.gif?raw=true "Novo Widget")
+
+**Importando dados de arquivo**
+
+- É possível também criar um widget importando dados de arquivos JSON ou CSV.
+
+![From_File](images/from_file.gif?raw=true "Importando de arquivo")
+
+**Importando dados de API**
+
+- Se preferir, é possível importar dados de duas APIs gratuitas (Covid-19 nas regiões de um país ou últimas 1000 transações envolvendo Bitcoin). Observação sobre API Covid-19: períodos de dias acima de 1 mês costumam gerar _timeout_. 
+
+![From_API](images/from_api.gif?raw=true "Importando de API")
+
+**Filtrar Widgets**
+
+- Para filtrar um Widget dentre os demais basta digitar o partes ou o nome completo do titulo do widget.
+
+![Filter](images/filter.gif?raw=true "Filtar wdiget")
+
+**Editar Widgets**
+
+- Para editar um Widget basta selecionar a opção no menu superior direito. Todas as funcionalidades de criação de widgets também estão presentes nesta tela.
+
+![Edit_Wiget](images/edit.gif?raw=true "Editar wdiget")
+
+**Excluir Widgets**
+
+- Para excluir um Widget basta selecionar a opção no menu superior direito.
+
+![Filter](images/deleting.gif?raw=true "Excluir wdiget")
+
+**Alterar tipo de gráfico**
+
+- É possível alternar o tipo de gráfico entre seis possibilidades.
+
+![Edit_Wiget](images/change_chart.gif?raw=true "Alterar tipo de gráfico")

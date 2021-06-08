@@ -6,7 +6,7 @@ import InputBase from "@material-ui/core/InputBase";
 import SearchIcon from "@material-ui/icons/Search";
 import Toolbar from "@material-ui/core/Toolbar";
 
-import delfosLogo from "../../images/delfos_Intelligent_maintenance.png";
+import delfosLogo from "../../assets/delfos_Intelligent_maintenance.png";
 import styles from "./styles";
 
 export default function Navbar(props) {
