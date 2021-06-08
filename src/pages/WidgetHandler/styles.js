@@ -91,13 +91,13 @@ const styles = (theme) => ({
   },
   footer: {
     display: "flex",
-    marginTop: "20px",
     width: "100%",
     justifyContent: "flex-end",
     flexDirection: "row",
     gridGap: "10px",
     boxSizing: "border-box",
-    padding: "10px",
+    overflow: "overlay",
+    margin: "0 10px 10px 0",
   },
   saveButton: {
     backgroundColor: theme.palette.primary.main,

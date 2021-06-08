@@ -25,7 +25,9 @@ const styles = (theme) => ({
     paddingRight: "5px",
   },
   addWidget: {
-    alignSelf: "flex-end",
+    position: "absolute",
+    bottom: 32,
+    right: 22,
     [theme.breakpoints.down("sm")]: {
       position: "absolute",
       bottom: 72,

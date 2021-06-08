@@ -43,7 +43,7 @@ const DataSheet = (props) => {
     if (props.initialRows && props.initialRows > 1) {
       let rows = [];
       for (let i = 1; i < props.initialRows; i++) {
-        rows.push({ value: "" });
+        rows.push([{ value: "" }]);
       }
       setData((prevState) => [...prevState, ...rows]);
     }
@@ -84,6 +84,7 @@ const DataSheet = (props) => {
   const handleAddColumn = () => {
     setData((prevState) => [
       ...prevState.map((row) => {
+        console.log("-> row", row);
         row.push({ value: "" });
         return row;
       }),
