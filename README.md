@@ -1,5 +1,5 @@
 # Delfosim Front End Challenge
-> Challenge to join as a Front-end Developer at Delfosim in Fortaleza-CE
+> This application was built as a challenge in the selection process to join Delfosim as a Front-end Developer in Fortaleza-CE
 
 ## Como rodar o servidor do projeto
 Projeto desenvolvido utilizando principalmente os framework Material-UI e Redux.
